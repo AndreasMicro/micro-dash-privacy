@@ -18,5 +18,5 @@ We may update this privacy policy. Any changes will be reflected on this page.
 5. Contact
 For any privacy-related inquiries, contact us at: [Insert Email or Contact Form Link]
 
-🔗 [Privacy Policy Link] (Replace with your hosted URL)
+🔗 https://github.com/AndreasMicro/micro-dash-privacy/edit/main/privacy-policy.md
 
