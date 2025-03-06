@@ -16,7 +16,6 @@ No third-party trackers or analytics services are used.
 We may update this privacy policy. Any changes will be reflected on this page.
 
 5. Contact
-For any privacy-related inquiries, contact us at: [Insert Email or Contact Form Link]
+For any privacy-related inquiries, contact us at: https://github.com/AndreasMicro/micro-dash-privacy/issues
 
-🔗 https://github.com/AndreasMicro/micro-dash-privacy/edit/main/privacy-policy.md
-
+🔗 https://github.com/AndreasMicro/micro-dash-privacy/
